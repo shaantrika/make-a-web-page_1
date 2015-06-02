@@ -1,0 +1,40 @@
+body
+{
+font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+background: #fffef2;
+color: green;
+line-height: normal;
+margin: 3% 25% 3% 25%;
+min-width: 400px;
+}
+
+h1 {
+color:darkblue;
+text-align:center;
+}
+
+hr
+{
+width: 400px;
+height: 3px;
+background-color: maroon
+}
+
+.bold
+{
+font-weight:bold;
+}
+
+.headline
+{
+font-size: 24px;
+color:red;
+font-weight:bold;
+text-align:center;
+}
+
+
+{
+text-align:center;
+font-size:14px;
+}
